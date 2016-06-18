@@ -1,0 +1,15 @@
+This is a simple ecommerse like system for selling video games.
+It is built using the MVC pattern logic.
+The system is divided in two parts - front for users(customers) & admin for the administrators of the system.
+The front part can be reached through this adress: http://localhost/ProjectCourseMVCNew/ (this path can be different).
+The admin part can be reached through this adress: http://localhost/ProjectCourseMVCNew/admin/index.php?c=login&m=login (this path can be different).
+The technologies used for building this project are:
+
+Back-end
+- PHP OOP
+- MySQL
+
+Front-end
+- Bootstrap
+- JavaScript
+   
